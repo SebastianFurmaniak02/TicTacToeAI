@@ -1,3 +1,5 @@
+Project for studies.
+
 C++ language
 TIC TAC TOE WITH AI
 
